@@ -15,6 +15,14 @@ This system helps customer support agents by analyzing incoming questions and re
 - **Dual Logging**: Metrics saved in both JSON and CSV formats for analysis
 - **Full Test Coverage**: Automated tests for validation, metrics, and safety
 
+## 📝 Recorded Runs & Evidence
+
+**See `RECORDED_RUNS.md`** for documented evidence of:
+- ✅ Multiple recorded runs producing valid JSON
+- ✅ Metrics logged to `metrics/metrics.json` and `metrics/metrics.csv`
+- ✅ Sample output saved in `sample_output.json`
+- ✅ Complete token counts, latency measurements, and cost calculations
+
 ## 📋 Requirements
 
 - Python 3.8+

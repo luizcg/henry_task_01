@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "data": {
+    "answer": "To reset your password, go to the login page and click on 'Forgot Password'. Enter your registered email address, and you will receive instructions to reset your password via email. Make sure to check your spam folder if you don't see the email promptly.",
+    "confidence": 0.95,
+    "actions": [
+      "Send password reset link to the customer's email",
+      "Verify the email address is correct in the system",
+      "Remind the customer to check their spam folder"
+    ],
+    "category": "account",
+    "requires_escalation": false
+  },
+  "metadata": {
+    "model": "gpt-4o-mini",
+    "tokens": {
+      "prompt": 903,
+      "completion": 124,
+      "total": 1027
+    },
+    "latency_ms": 4587.28,
+    "estimated_cost_usd": 0.00021
+  }
+}
