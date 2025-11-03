@@ -322,5 +322,3 @@ This project is submitted as part of an academic assignment.
 - Prompt engineering techniques from class lectures
 
 ---
-
-**Built with ❤️ for reliable, observable, and safe AI systems**
