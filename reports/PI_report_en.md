@@ -29,7 +29,7 @@ The system follows a modular architecture with clear separation of concerns:
 ┌────────────────────────────────────────────────────────┐
 │              CustomerSupportHelper                     │
 │  ┌──────────────────────────────────────────────────┐  │
-│  │  1. Safety Check (Optional)                      │  │
+│  │  1. Safety Check                                 │  │
 │  │     - Content Moderation API                     │  │
 │  │     - Adversarial Pattern Detection              │  │
 │  └──────────────────────────────────────────────────┘  │
